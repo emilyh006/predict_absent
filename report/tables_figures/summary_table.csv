@@ -1,0 +1,4 @@
+Domain,Cluster 0 Size (%),Cluster 1 Size (%),Avg Distance (C0),Avg Distance (C1),Silhouette Score,Cluster 0 Label,Cluster 1 Label
+Home,28.5%,71.5%,6.12,3.8,0.311,Adverse Home Environment & High Mental Distress,Nurturing Home Environment & Low Mental Distress
+Social,21.5%,78.5%,8.16,4.16,0.36,Socially Isolated & High Mental Distress,Socially Supported & Low Mental Distress
+Health,22.1%,77.9%,4.89,3.57,0.329,Low Physical Activity & High Mental Distress,High Physical Activity & Low Mental Distress
